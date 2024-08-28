@@ -27,3 +27,5 @@
 Заменить `<OWNER>` на ваш ник на github;
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
+
+![CI](https://github.com/Strassee/ahj-env/actions/workflows/web.yml/badge.svg)
